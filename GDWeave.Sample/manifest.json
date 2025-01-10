@@ -1,10 +1,10 @@
 {
-  "Id": "GDWeave.Sample",
-  "AssemblyPath": "GDWeave.Sample.dll",
+  "Id": "AutoFishing",
+  "PackPath": "AutoFishing.pck",
   "Metadata": {
-    "Name": "GDWeave Sample",
-    "Author": "You!",
+    "Name": "AutoFishing",
+    "Author": "SKIF",
     "Version": "1.0.0",
-    "Description": "This is a sample mod."
+    "Description": "Automates the fishing process: casting, hooking and reloading."
   }
 }
